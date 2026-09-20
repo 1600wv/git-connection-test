@@ -1,0 +1,8 @@
+Git connection test
+
+Purpose: verify local commit, GitHub push, and GitHub pull.
+GitHub account: 1600wv
+Created: 2026-09-20
+
+If this file appears in the remote repository, push is working.
+If a remote change can be pulled back locally, pull is working.
